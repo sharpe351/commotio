@@ -15,8 +15,7 @@ $(call inherit-product, vendor/vanir/proprietary/ringtones/VanirRingtones.mk)
 PRODUCT_PACKAGES += \
     busybox \
     Email \
-    Launcher3 \
-    OmniSwitch
+    Launcher3
 
 #    PerformanceControl \
 #    VanirUpdater
